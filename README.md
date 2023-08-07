@@ -11,11 +11,11 @@
 ![](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=512B81&color=8CABFF)
 ![](https://img.shields.io/badge/React%20Native-white?style=for-the-badge&logo=react&logoColor=white&labelColor=512B81&color=8CABFF)
 
-![](https://img.shields.io/badge/React_Hook_Form-white?style=plastic&logo=reacthookform&logoColor=white&labelColor=white&color=374259)
+![](https://img.shields.io/badge/React_Hook_Form-white?style=plastic&logo=reacthookform&logoColor=white&labelColor=7C9D96&color=374259)
 ![](https://img.shields.io/badge/Dayjs-white?style=plastic&color=374259)
 ![](https://img.shields.io/badge/JSX-white?style=plastic&color=374259)
 ![](https://img.shields.io/badge/React_Navigation-white?style=plastic&color=374259)
-![](https://img.shields.io/badge/Redux-white?style=plastic&logo=redux&logoColor=white&labelColor=white&color=374259)
+![](https://img.shields.io/badge/Redux-white?style=plastic&logo=redux&logoColor=white&labelColor=7C9D96&color=374259)
 ![](https://img.shields.io/badge/GraphQL-white?style=plastic&logo=graphql&logoColor=white&labelColor=7C9D96&color=374259)
 
 ![](https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5&logoColor=white&color=40128B)
